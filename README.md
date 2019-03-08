@@ -4,6 +4,8 @@
 
 * The 3rd Annual [Global Big Data Conference][1] January 23, 2019.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/Minimally-Sufficient-Pandas/master)
+
 # Mininally Sufficient Pandas Guidelines
 
 This notebook contains a summary of all the guidelines in this tutorial along with a list of attributes and methods that provide nearly all of the functionality of Pandas.
